@@ -232,7 +232,7 @@ p {
 /* Hero Section */
 
 #hero {
-    background-image: url(./Images/img-computer.jpg);
+    background-image: url(./img/img-computer.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
